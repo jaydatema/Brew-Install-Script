@@ -46,40 +46,20 @@ brew tap caskroom/versions
 
 # Apps
 apps=(
-adobe-creative-cloud
-android-file-transfer
 atom
-crashplan
 cyberduck
 firefox
 google-chrome
-google-chrome-canary
 google-drive
 google-hangouts
 handbrake
-imageoptim
-hyperdock
-imagealpha
-imageoptim
-java
-libreoffice
-licecap
-namechanger
-opera
-postgres
-private-internet-access
+scrivener
 sequel-pro
-silverlight
-sketch
-spectacle
+skype
 spotify
-steam
-silverlight
-transmission
-vagrant
-vagrant-manager
 virtualbox
 vlc
+zotero
 )
 
 # Install apps to /Applications
